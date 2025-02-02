@@ -1,0 +1,19 @@
+[ {
+  "id" : 1,
+  "description" : "buy groceries and cook dinner",
+  "status" : "todo",
+  "createdAt" : "2025-02-02T18:13:28",
+  "updatedAt" : "2025-02-02T18:14:02"
+}, {
+  "id" : 3,
+  "description" : "Play FC25",
+  "status" : "done",
+  "createdAt" : "2025-02-02T18:57:46",
+  "updatedAt" : "2025-02-02T19:27:47"
+}, {
+  "id" : 4,
+  "description" : "Watch Jailer",
+  "status" : "in-progress",
+  "createdAt" : "2025-02-02T19:04:48",
+  "updatedAt" : "2025-02-02T19:20:16"
+} ]
