@@ -1,6 +1,9 @@
 Clone this project.
+
 Execute mvn clean install -DskipTests
+
 Run the app using java -jar target/<Jar-Name>.jar
+
 Once application launched, Shell will be opened.
 
 Run help to list all the available commands.
